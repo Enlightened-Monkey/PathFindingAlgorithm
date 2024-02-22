@@ -1,0 +1,1 @@
+PathfindingAlgorithm App is a Unity-based application designed to demonstrate the A* pathfinding algorithm in action working with untity tilemaps. Because of the folder size, only scripts from Unity project are included.
